@@ -34,9 +34,9 @@ body{
 #center{
     text-align: center;
 }
-.one-third{
 
-}
+
+
 .item{
         width: 25%;
         margin-left: 2%;
@@ -46,10 +46,11 @@ body{
         box-shadow: 10px 10px 40px gray;
     }
 .one-third{
-    width: 50%;
+    width: 30%;
     
     padding-left: 5%;
 }
+
 .item img{
     width: 30%;
 
